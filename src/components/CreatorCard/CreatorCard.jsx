@@ -12,7 +12,7 @@ import CustomButton from 'components/CustomButton'
 import styles from 'assets/jss/components/creatorCardStyles'
 
 const useStyles = makeStyles(styles)
-
+ 
 const CreatorCard = (props) => {
 
   const classes = useStyles()

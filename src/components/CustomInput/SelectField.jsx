@@ -12,7 +12,7 @@ const useStyles = makeStyles(styles)
 
 const SelectField = (props) => {
 
-  const classes = useStyles()
+  const classes = useStyles() 
 
   const { label, required, options } = props
 
