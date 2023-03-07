@@ -14,7 +14,7 @@ const FilterBoxWallet = (props) => {
   const [open, setOpen] = useState(false);
 
   return (
-    <Box>
+    <Box> 
       <Box
         sx={{ padding: "10px 0", cursor: "pointer" }}
         display="flex"
