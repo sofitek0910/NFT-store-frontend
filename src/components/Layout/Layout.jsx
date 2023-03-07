@@ -22,7 +22,7 @@ const Layout = (props) => {
         handleClose={() => setOpen(false)}
       />
     </Box>
-  )
+  ) 
 }
 
 export default Layout

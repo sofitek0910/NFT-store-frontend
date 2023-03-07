@@ -17,7 +17,7 @@ const Newsletter = () => {
 
   const classes = useStyles()
 
-  return (
+  return ( 
     <Box className={classes.wrapper} mx='auto'>
       <CustomContainer>
         <Box display='flex' justifyContent='space-between' alignItems='center' flexWrap='wrap'>

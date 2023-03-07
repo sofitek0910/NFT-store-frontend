@@ -31,6 +31,6 @@ const ReviewBox = (props) => {
       <img src="/images/icons/review.png" alt="" className={classes.mark} />
     </Box>
   )
-}
+} 
 
 export default ReviewBox

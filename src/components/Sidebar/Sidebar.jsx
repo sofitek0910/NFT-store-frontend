@@ -28,7 +28,7 @@ const Sidebar = (props) => {
   const handleNavigate = (e, url) => {
     e.preventDefault();
     navigate(url);
-  };
+  }; 
 
   return (
     <Drawer anchor="left" open={open} onClose={handleClose}>
