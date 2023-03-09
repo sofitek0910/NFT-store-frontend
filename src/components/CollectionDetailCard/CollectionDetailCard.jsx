@@ -18,7 +18,7 @@ const CollectionDetailCard = (props) => {
   const classes = useStyles();
   const navigate = useNavigate();
 
-  const { data } = props;
+  const { data } = props; 
 
   // const markClasses = clsx(classes.mark, {
   //   [classes.art]: data?.data.category === "Art",

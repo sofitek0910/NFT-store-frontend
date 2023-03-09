@@ -13,7 +13,7 @@ const CollectionCard = (props) => {
 
   const classes = useStyles()
 
-  const { collection } = props
+  const { collection } = props 
 
   const markClasses = clsx(
     classes.mark,

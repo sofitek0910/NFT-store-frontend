@@ -23,7 +23,7 @@ const SelectField = (props) => {
   };
 
   return (
-    <Box className={classes.textField}>
+    <Box className={classes.textField}> 
       <InputLabel id="demo-simple-select-label">
         {label}
         {
